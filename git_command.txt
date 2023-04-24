@@ -1,0 +1,9 @@
+
+git init
+dir
+git add ""
+git status
+git commit
+git remote add github 
+git remote -v
+git push -u github master
